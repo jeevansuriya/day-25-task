@@ -1,0 +1,21 @@
+.Image_cat{
+    width: 20rem;
+    height: 20rem;
+    margin-left: 28.5rem;
+    margin-top: 3rem;
+}
+.cat_title{
+    color: rgb(3, 116, 110);
+    text-align: center;
+    font-family: 'Irish Grover', cursive;
+    padding: 3rem;
+}
+.generate_btn{
+   margin-left: 47%;
+   margin-top: 1.5rem;
+   margin-bottom: 1.5rem;
+   background-color: cadetblue;
+}
+.background_color{
+    background-image: linear-gradient(to right top, #e60595, #b81d80, #8c226a, #642151, #3f1b37, #34182e, #2a1426, #20101d, #291024, #32102a, #3b0e30, #450a36);
+}
